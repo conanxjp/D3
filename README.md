@@ -6,4 +6,4 @@
 
 2. heatmap
    Visualize stackoverflow activity through time using heatmap
-   
+   Reference visualization: pm2.5 heatmap visualization
