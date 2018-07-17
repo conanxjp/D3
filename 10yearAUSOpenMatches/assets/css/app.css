@@ -1,0 +1,129 @@
+body .container-fluid {
+  width: 95%;
+  height: 100%;
+  margin: 0 100px 0 40px;
+  padding: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  padding: 30px 10px 0px 10px;
+}
+
+h5 {
+  text-align: center;
+  padding-right: 40px;
+}
+
+.container-fluid .row {
+  width: 100%;
+  margin: 0 0;
+}
+
+.column text {
+  opacity: 0.5;
+}
+
+.row text {
+  opacity: 0.5;
+}
+
+.line {
+  stroke: #fff;
+}
+.background {
+  fill: #eee;
+}
+
+.active {
+  opacity: 1;
+  font-weight: bold;
+}
+
+.toolTip {
+	position: absolute;
+  display: none;
+  min-width: 20px;
+  height: auto;
+  background: none repeat scroll 0 0 #ffffff;
+  border: 0.5px solid #ff9900;
+  padding: 10px;
+  text-align: center;
+  font-size: 0.8em;
+}
+
+#stat_header {
+  width: 550px;
+  margin: 0 0;
+  padding: 0 0;
+}
+
+#player_names {
+  text-align: center;
+  padding: 10px 0 0 0;
+}
+
+#player_names h6 {
+  margin: 0 0;
+  font-size: 1vw;
+}
+
+#trophy {
+  color: #ff9900;
+}
+
+#player_country {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+#player_country .col-md-4 {
+  font-size: 0.6em;
+  text-align: center;
+  margin: 0 0;
+  padding: 0 0;
+}
+
+#player_country p {
+  font-size: 1.2em;
+}
+
+#main {
+  width: 100%;
+  margin: 0 10px;
+}
+
+#matrix_svg {
+  display: block;
+  /* margin: -50px auto; */
+  /* padding: 10px 0px 0px 40px; */
+}
+
+#right_panel {
+  height: 700px;
+  /* border-left: 1px solid; */
+  padding: 0 0;
+}
+
+#control {
+  width: 500px;
+  padding: 50px 10px 10px 10px;
+}
+
+#top_player_label {
+  font-size: 1.0em;
+  display: inline-block;
+  width: 150px;
+  text-align: center;
+}
+
+#match {
+  width: 100%;
+  margin: 0 auto;
+  padding: 5px 0;
+}
+
+#match_stat {
+  width: 100%;
+  padding: 0 0;
+}
